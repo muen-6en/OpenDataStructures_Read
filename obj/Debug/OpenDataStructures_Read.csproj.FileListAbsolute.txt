@@ -1,0 +1,16 @@
+C:\Users\mrims\source\repos\OpenDataStructures_Read\bin\Debug\OpenDataStructures_Read.exe.config
+C:\Users\mrims\source\repos\OpenDataStructures_Read\bin\Debug\OpenDataStructures_Read.exe
+C:\Users\mrims\source\repos\OpenDataStructures_Read\bin\Debug\OpenDataStructures_Read.pdb
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\OpenDataStructures_Read.csprojAssemblyReference.cache
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\MainWindow.g.cs
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\App.g.cs
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\OpenDataStructures_Read_MarkupCompile.cache
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\OpenDataStructures_Read_MarkupCompile.lref
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\MainWindow.baml
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\OpenDataStructures_Read.g.resources
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\OpenDataStructures_Read.Properties.Resources.resources
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\OpenDataStructures_Read.csproj.GenerateResource.cache
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\OpenDataStructures_Read.csproj.CoreCompileInputs.cache
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\OpenDataStructures_Read.exe
+C:\Users\mrims\source\repos\OpenDataStructures_Read\obj\Debug\OpenDataStructures_Read.pdb
